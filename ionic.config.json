@@ -1,0 +1,8 @@
+{
+  "name": "Aspn",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "1d09089f"
+}
